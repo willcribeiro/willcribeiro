@@ -1,16 +1,41 @@
-### Hi there 👋
+<p align="center">
+  <a href="#">
+    <img align="center" width="280" src="signature.png" />
+  </a>
+  <a href="#">
+    <img align="center" width="510" src="robot.gif" />
+  </a>
+</p>
 
-<!--
-**willcribeiro/willcribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=willcribeiroz&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=willcribeiro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Abstract
+
+- 💼 I'm currently internship  at **Núcleo de Pesquisa em Alimentos e Medicamentos – NUPLAM**.
+- 🎓 Finishing **Mechatronic Engineering**. 
+- 🔬 Researcher in **autonomous robotics**
+- 💙 Interests: games 🎮 , dogs 🐕,  Robots 🤖~the crazy of the robots~🤖 .
+
+
+<br/>
+
+
+### Find me around the web 🌎:
+
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/willcr/">LinkedIn</a>.
