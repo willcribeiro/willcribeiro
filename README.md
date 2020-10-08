@@ -18,7 +18,7 @@
     <img
       align="center"
       height="165"
-      src="hhttps://github-readme-stats.vercel.app/api/wakatime?username=willcribeiro"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=willcribeiro"
     />
   </a>
 </p>
