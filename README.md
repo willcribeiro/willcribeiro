@@ -3,7 +3,7 @@
     <img align="center" width="280" src="signature.png" />
   </a>
   <a href="#">
-    <img align="center" width="510" src="robot2.gif" />
+    <img align="center" width="510" src="robot.gif" />
   </a>
 </p>
 
