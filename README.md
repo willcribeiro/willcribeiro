@@ -30,7 +30,7 @@
 - 💼 I'm currently internship  at **Núcleo de Pesquisa em Alimentos e Medicamentos – NUPLAM**.
 - 🎓 Finishing **Mechatronic Engineering**. 
 - 🔬 Researcher in **autonomous robotics**
-- 💙 Interests: games 🎮 , dogs 🐕,  Robots 🤖~the crazy of the robots~🤖 .
+- 💙 Interests: games 🎮 , dogs 🐕,  Robots 🤖~The madman of the robots~🤖 .
 
 
 <br/>
